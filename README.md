@@ -1,4 +1,4 @@
-# Market Expansion Revenue Predictor
+# International Revenue Predictor
 
 A regression-based market expansion dashboard built to estimate revenue potential across European markets.
 

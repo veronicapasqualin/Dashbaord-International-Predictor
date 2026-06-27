@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
 
 st.set_page_config(
-    page_title="Market Expansion Forecast Dashboard",
+    page_title="Internationla Revenue Predictor Dashboard",
     layout="wide"
 )
 
